@@ -1,13 +1,9 @@
-div{
-    border-style: solid;
-    border-width: 2px;
-}
-#header{
+header{
     background-color: #00a3cc;
     text-align: center;
 }
 
-#menu{
+nav{
     line-height: 30px;
     text-align: center;
     background-color: #C0C0C0;
@@ -15,13 +11,13 @@ div{
     width: 170;
     float:left;
 }
-#contenido{
+section{
     text-indent: 10px;
     height:500px;
     text-align: center;
 }
 
-#footer{
+footer{
     text-align: center;
     background-color: #C0C0C0;
 }
